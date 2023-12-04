@@ -28,7 +28,7 @@ export const ContentContainer: FC = props => {
             </Link>
           </li> */}
           <li>
-            <Link href="https://t.me/SolScanSol">
+            <Link href="https://t.me/SolScanorgSol">
               <a>Telegram</a>
             </Link>
           </li>

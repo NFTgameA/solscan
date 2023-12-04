@@ -44,7 +44,7 @@ export const HomeView: FC = ({ }) => {
             <Link href="/explorer">
               <a className="btn btn-ghost btn-sm rounded-btn">Explorer</a>
             </Link>
-            <Link href="https://twitter.com/SolScanOrg">
+            <Link href="https://t.me/SolScanorgSol">
               <a className="btn btn-ghost btn-sm rounded-btn">Telegram</a>
             </Link>
            
