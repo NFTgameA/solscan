@@ -23,7 +23,7 @@ export const AppBar: FC = props => {
             </svg>
           </label> */}
 
-          <div className=" sm:inline w-22 h-22 md:p-2">
+          <div className=" sm:inline w-14 h-12">
             <Link href="../"><img src="./sol.png" className="w-32" alt="logo"  /></Link>
             
           </div>
