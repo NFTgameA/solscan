@@ -44,11 +44,11 @@ export const HomeView: FC = ({ }) => {
             <Link href="/explorer">
               <a className="btn btn-ghost btn-sm rounded-btn">Explorer</a>
             </Link>
-            <Link href="https://t.me/SolScanorg">
+            <Link href="https://t.me/solscanorg_solana">
               <a className="btn btn-ghost btn-sm rounded-btn">Telegram</a>
             </Link>
            
-            <Link href="https://twitter.com/SolScanOrg">
+            <Link href="https://twitter.com/SolScan_org">
               <a className="btn btn-ghost btn-sm rounded-btn">Twitter</a>
             </Link>
             

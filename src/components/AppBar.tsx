@@ -24,7 +24,7 @@ export const AppBar: FC = props => {
           </label> */}
 
           <div className=" sm:inline ">
-            <Link href="../"><img src="./sol.png" className="w-52" alt="logo"  /></Link>
+            <Link href="../"><img src="./sol.png" className="w-24" alt="logo"  /></Link>
             
           </div>
         </div>
