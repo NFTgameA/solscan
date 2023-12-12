@@ -34,7 +34,7 @@ export const HomeView: FC = ({ }) => {
      
       <div className="md:hero-content flex flex-col">
         <h1 className="text-center text-5xl md:pl-12 font-bold text-transparent bg-clip-text bg-gradient-to-tr from-[#9945FF] to-[#14F195] h-14">
-          SolScan.org <span className='text-sm font-normal align-top text-slate-700'>v{pkg.version}</span>
+        SolanaExplorer.info <span className='text-sm font-normal align-top text-slate-700'>v{pkg.version}</span>
         </h1>
         <div className="flex items-stretch">
           
@@ -44,11 +44,11 @@ export const HomeView: FC = ({ }) => {
             <Link href="/explorer">
               <a className="btn btn-ghost btn-sm rounded-btn">Explorer</a>
             </Link>
-            <Link href="https://t.me/solscanorg_solana">
+            <Link href="https://t.me/SolanaExplorer_info">
               <a className="btn btn-ghost btn-sm rounded-btn">Telegram</a>
             </Link>
            
-            <Link href="https://twitter.com/SolScan_org">
+            <Link href="https://twitter.com/SolExplorerInfo">
               <a className="btn btn-ghost btn-sm rounded-btn">Twitter</a>
             </Link>
             

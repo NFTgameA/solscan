@@ -6,6 +6,7 @@ import { useAutoConnect } from '../contexts/AutoConnectProvider';
 import NetworkSwitcher from './NetworkSwitcher';
 import Image from 'next/image'
 
+
 // import Imagea from '../.'
 export const AppBar: FC = props => {
   const { autoConnect, setAutoConnect } = useAutoConnect();
@@ -24,7 +25,7 @@ export const AppBar: FC = props => {
           </label> */}
 
           <div className=" sm:inline ">
-            <Link href="../"><img src="./sol.png" className="w-24" alt="logo"  /></Link>
+            <Link href="../"><img src="./sol.png" className="w-44" alt="logo"  /></Link>
             
           </div>
         </div>
